@@ -18,4 +18,4 @@ function moveZeros(nums) {
     return nums
 }
 
-console.log(moveZeros(nums)) //  [ 1, 3, 12, 0, 0 ]
+console.log(moveZeros(nums)) //  [ 1, 3, 12, 0, 0 ]Copilot
